@@ -1,1 +1,1 @@
-Build my own API
+Documentation and db schema for the project.
